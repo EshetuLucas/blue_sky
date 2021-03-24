@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "735298278318",
+    "project_id": "bluesky-b8b4f",
+    "storage_bucket": "bluesky-b8b4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735298278318:android:8f74cb47e71d3169f5ae3f",
+        "android_client_info": {
+          "package_name": "com.example.blue_sky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735298278318-gf085tbtupq5qu59v2s41mff5u0ltg6n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.blue_sky",
+            "certificate_hash": "f7114bec66cb73c6dceac92eb343e7805d442d28"
+          }
+        },
+        {
+          "client_id": "735298278318-4h9o933ueqv3bhp558d4issp9g2eh1ji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtO6tOfMCqUCDqXfYUy7_PH2gkVmKBJRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735298278318-4h9o933ueqv3bhp558d4issp9g2eh1ji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
